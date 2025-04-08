@@ -1,4 +1,4 @@
-# 🧠 ChatGPT RAG App (Frontend + Backend)
+# 🧠 RAG CHATBOT App (Frontend + Backend)
 
 A full-stack Retrieval-Augmented Generation (RAG) chatbot application built with **Next.js** and **FastAPI**. It includes a chat interface and scraping capability to ingest new URLs into a vector store for intelligent contextual responses.
 
